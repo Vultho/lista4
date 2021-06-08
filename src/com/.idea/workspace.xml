@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7a2a723-aa70-4609-be7f-7b03909f9ad5" name="Default Changelist" comment="" />
+    <list default="true" id="f7a2a723-aa70-4609-be7f-7b03909f9ad5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/company/exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/exercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/exercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/company/teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company/exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/company/exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/company/exercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com/company/exercicio5.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1t2ecGI3ySf0SqS6EWoUqPJ6t7B" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,9 +42,61 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="company.exercicio4" />
+  <component name="RunManager" selected="Application.exercicio8">
+    <configuration name="exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.exercicio5" />
+      <module name="com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.exercicio6" />
+      <module name="com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.exercicio7" />
+      <module name="com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.exercicio8" />
+      <module name="com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.teste" />
       <module name="com" />
       <extension name="coverage">
         <pattern>
@@ -47,7 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exercicio4" />
+        <item itemvalue="Application.exercicio8" />
+        <item itemvalue="Application.exercicio6" />
+        <item itemvalue="Application.teste" />
+        <item itemvalue="Application.exercicio7" />
+        <item itemvalue="Application.exercicio5" />
       </list>
     </recent_temporary>
   </component>
@@ -61,5 +128,17 @@
       <updated>1621971689148</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
