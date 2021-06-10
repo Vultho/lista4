@@ -1,4 +1,4 @@
-package company;
+package com.company;
 
 public class exercicio9 {
     public static void main(String[] args) {
