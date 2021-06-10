@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7a2a723-aa70-4609-be7f-7b03909f9ad5" name="Default Changelist" comment="" />
+    <list default="true" id="f7a2a723-aa70-4609-be7f-7b03909f9ad5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company/exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/company/exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/company/teste.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +39,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.exercicio8">
-    <configuration name="exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="company.exercicio2" />
+  <component name="RunManager" selected="Application.exercicio10">
+    <configuration name="exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.exercicio10" />
       <module name="com" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="company.exercicio6" />
+    <configuration name="exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.exercicio2" />
       <module name="com" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio10" />
         <item itemvalue="Application.exercicio8" />
         <item itemvalue="Application.teste" />
         <item itemvalue="Application.exercicio9" />
         <item itemvalue="Application.exercicio2" />
-        <item itemvalue="Application.exercicio6" />
       </list>
     </recent_temporary>
   </component>
