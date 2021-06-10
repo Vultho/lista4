@@ -29,6 +29,7 @@ public class exercicio10 {
             vetorJunto[n] = vetor2[j];
             n++;
             j++;
+            
         }
         for (int i = 0; i < vetorJunto.length; i++) {
             System.out.print(vetorJunto[i] + ", ");
